@@ -14,12 +14,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/c1/ed/21/c1ed21cfe19257f625e65476fbf013da.gif"  />
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
